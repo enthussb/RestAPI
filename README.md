@@ -1,6 +1,8 @@
 # RestAPI
-RestAPI to catch a JSON response and store in MySQL database or retrieve data from MySQL database in JSON format. 
-This project contains a sample customer model which can be changed as per the application's needs.
+RestAPI to catch a JSON response and store in MySQL database or retrieve data from MySQL database in JSON format.
+<p align ="center"><img src = "https://raw.githubusercontent.com/enthussb/RestAPI/master/RestAPI.jpg"></p>  
+
+This project contains a sample customer model which can be changed as per the application's needs.\
 There are two tables -
 - records - Contains the data which was stored previously and used to get JSON response.
 - records1 - Used to save the data received as JSON response.
